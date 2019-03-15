@@ -33,11 +33,13 @@ App Lab Tutorials and Sample Projects: https://code.org/educate/applab
 
 #### Helpful Suggestions To The Students
 
-Registration, Updating profile, logging in
-Schedule
-Ride Request 
-Logic Rules for Road 
-Cancel Ride
+Here are some helpful suggestions to give the students should they get stuck with their app:
+
+- Registration, Updating profile, logging in
+- Schedule
+- Ride Request 
+- Logic Rules for Road 
+- Cancel Ride
 
 #### YouTube Videos on Creating a Simple Login Page
 
