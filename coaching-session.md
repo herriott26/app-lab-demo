@@ -55,3 +55,10 @@
 ## Useful Resources
 
 - Links on the main readme for this site
+
+## Final Thoughts
+
+- Go in and create an app.
+- View the videos on the main readme page.
+- The more familiar you are with App Lab. the better experience and coaching you can provide to the students.
+- Share knowledge - share knowledge on this repo with pull requests on this repo
