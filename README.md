@@ -29,6 +29,8 @@ App Lab Intro Tutorial: https://studio.code.org/s/applab-intro/
 
 App Lab Documentation: https://docs.code.org/applab/
 
+App Lab Tutorials and Sample Projects: https://code.org/educate/applab
+
 #### YouTube Videos on Creating a Simple Login Page
 
 These videos are very helpful to learn how to tie the design elements, blocks and data together.
