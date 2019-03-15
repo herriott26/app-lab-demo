@@ -31,6 +31,14 @@ App Lab Documentation: https://docs.code.org/applab/
 
 App Lab Tutorials and Sample Projects: https://code.org/educate/applab
 
+#### Helpful Suggestions To The Students
+
+Registration, Updating profile, logging in
+Schedule
+Ride Request 
+Logic Rules for Road 
+Cancel Ride
+
 #### YouTube Videos on Creating a Simple Login Page
 
 These videos are very helpful to learn how to tie the design elements, blocks and data together.
