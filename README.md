@@ -50,7 +50,7 @@ Here are some helpful suggestions to give the students should they get stuck wit
 - Coordinate location between rider and driver.
 - Chat within the app between the rider and driver.
 - Send updates between rider and driver. For example if a driver is sick and needs to cancel.
-- For graphics, gold ascii color is #FFDF00	and black is #000000.
+- For graphics, the gold ascii color is #FFDF00	and black is #000000.
 
 #### YouTube Videos on Creating a Simple Login Page
 
