@@ -35,11 +35,25 @@ App Lab Tutorials and Sample Projects: https://code.org/educate/applab
 
 Here are some helpful suggestions to give the students should they get stuck with their app:
 
-- Registration, Updating profile, logging in
-- Schedule
-- Ride Request 
-- Logic Rules for Road 
-- Cancel Ride
+##### Core Suggestions
+
+- Registration and logging into the app.
+- Scheduling a ride.
+- Requesting a ride.
+- Logic rules for the road - examples include 16 year olds can only drive one person.
+- Cancelling a ride.
+
+##### Additional Suggestions
+
+- Some features may not be able to be implimented, such as a ride tracker. Even though they won't be able to impliment such things they can still wire up the screen and tell the judges what they were thinkng. For example, students can still wire the page for a ride tracker with a map image but no functionality.
+- Navigating within the app.
+- Coordinate location between rider and driver.
+- Chat within the app between the rider and driver.
+- Send updates between rider and driver. For example if a driver is sick and needs to cancel.
+
+
+##### Some other Suggestions
+
 
 #### YouTube Videos on Creating a Simple Login Page
 
