@@ -40,7 +40,7 @@ It is possible to share screens between students. To share screens between stude
 3. On the pop-up screen input the URL for the student you wish to import screens from. 
 4. The next pop-up screen will display all the screens available for import. Select the screens as needed.
 
-** Important: This only imports screens and not the code. You will need to copy over the code seperately and update any variables or UI ID names appropriately.**
+**Important: This only imports screens and not the code. You will need to copy over the code seperately and update any variables or UI ID names appropriately.**
 
 ## Helpful Links and Comments
 
